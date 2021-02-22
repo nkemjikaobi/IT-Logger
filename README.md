@@ -21,7 +21,7 @@ An IT Logger built with REACT and JSON-SERVER
 <h1>Running the Project.</h1>
 Install dependencies with <code><pre>npm install</pre></code>
 
-* <code><pre>Run npm run dev</pre></code> { this will concurrently run the server and the client side }
+<code><pre>Run npm run dev</pre></code> { this will concurrently run the server and the client side }
 
 * Check all dependencies and devdependecies used in **package.json**
 
