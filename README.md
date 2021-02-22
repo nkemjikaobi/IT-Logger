@@ -1,7 +1,7 @@
 LIVE URL:  null
 
 <h1>IT Logger</h1>
-<p>This is a project for IT technicians to add logs in order of priority i.e High or Low attention/p>
+<p>This is a project for IT technicians to add logs in order of priority i.e High or Low attention</p>
 <p>Logs can be added and must be associated with a technician</p>
 <p>The Logs satisfies the CRUD functionalites</p>
 <p>New technicicans can be created and deleted</p>
@@ -13,7 +13,7 @@ An IT Logger built with REACT and JSON-SERVER
 * <h3>MOMENT</h3> is usef to format time
 
 <h1>Clone The Repository</h1>
-<code><pre>git clone https://github.com/nkemjikaobi/IT-Logger.git/pre></code>
+<code><pre>git clone https://github.com/nkemjikaobi/IT-Logger.git</pre></code>
 
 <h1>CD into the project</h1>
 <code><pre>cd IT-Logger</pre></code>
